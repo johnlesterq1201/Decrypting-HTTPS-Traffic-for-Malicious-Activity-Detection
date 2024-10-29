@@ -3,14 +3,14 @@
 # Objective
 The goal of this analysis is to identify and document any malicious activities or processes observed within network traffic using Wireshark.
 
-# Skills Learned
-[Bullet Points - Remove this afterwards]
+### Skills Learned
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
+- Identifying Malicious Patterns in Encrypted Traffic
+- Experience with Network Forensics
+- Proficiency in analyzing and interpreting network logs.
+- Ability to generate and recognize attack signatures and patterns.
+- Enhanced knowledge of network protocols and security vulnerabilities.
+- Development of critical thinking and problem-solving skills in cybersecurity
 
 # Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
