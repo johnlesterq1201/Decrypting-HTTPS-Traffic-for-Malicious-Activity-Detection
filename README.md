@@ -3,8 +3,26 @@
 # Objective
 The goal of this analysis is to identify and document any malicious activities or processes observed within network traffic using Wireshark.
 
+# Skills Learned
+[Bullet Points - Remove this afterwards]
+
+Advanced understanding of SIEM concepts and practical application.
+Proficiency in analyzing and interpreting network logs.
+Ability to generate and recognize attack signatures and patterns.
+Enhanced knowledge of network protocols and security vulnerabilities.
+Development of critical thinking and problem-solving skills in cybersecurity.
+
+# Steps
+drag & drop screenshots here or use imgur and reference them using imgsrc
+
+Every screenshot should have some text explaining what the screenshot is about.
+
+Example below.
+
+Ref 1: Network Diagram
+
 # Summary of Findings
-During the analysis of network traffic on [specific network or segment], suspicious patterns were identified, including [highlight any specific patterns, like unusually high traffic, frequent failed login attempts, or abnormal data transfer].
+During the analysis of network traffic on the PCAP File, suspicious patterns were identified, including a suspicious file being downloaded on unsafe website.
 
 #Summary of Key Findings:
 
