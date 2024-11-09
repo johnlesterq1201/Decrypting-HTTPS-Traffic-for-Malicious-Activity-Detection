@@ -1,4 +1,4 @@
-# Decrypting-HTTPS-Traffic-for-Malicious-Activity-Detection
+# Decrypting HTTPS Traffic for Malicious-Activity-Detection
 
 # Objective
 The goal of this analysis is to identify and document any malicious activities or processes observed within network traffic using Wireshark.
